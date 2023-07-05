@@ -1,0 +1,751 @@
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\QuanLyThuVien_WF.exe
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\QuanLyThuVien_WF.pdb
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraBars.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Office.v16.1.Core.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.v16.1.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v16.1.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraBars.v16.1.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Office.v16.1.Core.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csprojResolveAssemblyReference.cache
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Form1.resources
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Properties.Resources.resources
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcDocGia.resources
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcThuThu.resources
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcTuaSach.resources
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.GenerateResource.Cache
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.exe.licenses
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.exe
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.pdb
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcKeSach.resources
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcNhaCungCap.resources
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcNhaXuatBan.resources
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcPhieuMuon.resources
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcPhieuNhap.resources
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcTacGia.resources
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcCuonSach.resources
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\QuanLyThuVien_WF.exe.config
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Charts.v16.1.Core.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v16.1.UI.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\EntityFramework.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\EntityFramework.SqlServer.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v16.1.UI.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraRichEdit.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v16.1.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v16.1.UI.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\EntityFramework.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\EntityFramework.SqlServer.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v16.1.UI.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraRichEdit.v16.1.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraCharts.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraCharts.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraCharts.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraCharts.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.Utils.v16.1.UI.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.Utils.v16.1.UI.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.Utils.v16.1.UI.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.Utils.v16.1.UI.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraRichEdit.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraRichEdit.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraRichEdit.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraRichEdit.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcThongKe.resources
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevComponents.DotNetBar2.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevComponents.DotNetBar2.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\Telerik.WinControls.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\Telerik.WinControls.GridView.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\Telerik.WinControls.UI.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\TelerikCommon.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\Telerik.WinControls.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\Telerik.WinControls.GridView.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\Telerik.WinControls.UI.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.PivotGrid.v16.1.Core.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Xpo.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGauges.v16.1.Core.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.CodeParser.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v16.1.UI.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v16.1.Extensions.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPivotGrid.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraDiagram.v16.1.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Diagram.v16.1.Core.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v16.1.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.PivotGrid.v16.1.Core.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Xpo.v16.1.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGauges.v16.1.Core.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v16.1.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v16.1.UI.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPivotGrid.v16.1.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraDiagram.v16.1.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Diagram.v16.1.Core.xml
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.DataAccess.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.DataAccess.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.DataAccess.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.DataAccess.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.PivotGrid.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.PivotGrid.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.PivotGrid.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.PivotGrid.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.Xpo.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.Xpo.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.Xpo.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.Xpo.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraGauges.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraGauges.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraGauges.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraGauges.v16.1.Core.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraReports.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraReports.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraReports.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraReports.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.DataAccess.v16.1.UI.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.DataAccess.v16.1.UI.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.DataAccess.v16.1.UI.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.DataAccess.v16.1.UI.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraPivotGrid.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraPivotGrid.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraPivotGrid.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraPivotGrid.v16.1.resources.dll
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.XtraReport1.resources
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.XtraReport2.resources
+F:\@14. Thuc Tap\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.XtraReport3.resources
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.AssemblyReference.cache
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Form1.resources
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Properties.Resources.resources
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcCuonSach.resources
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcDocGia.resources
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcKeSach.resources
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcNhaCungCap.resources
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcNhaXuatBan.resources
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcPhieuMuon.resources
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcPhieuNhap.resources
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcTacGia.resources
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcThongKe.resources
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcThuThu.resources
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcTuaSach.resources
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.XtraReport1.resources
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.XtraReport2.resources
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.XtraReport3.resources
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.GenerateResource.cache
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.exe.licenses
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.exe
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.pdb
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\QuanLyThuVien_WF.exe.config
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\QuanLyThuVien_WF.exe
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\QuanLyThuVien_WF.pdb
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\EntityFramework.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\EntityFramework.SqlServer.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Images.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\EntityFramework.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\EntityFramework.SqlServer.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.SuggestedBindingRedirects.cache
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.CoreCompileInputs.cache
+D:\PRACTICE\do an_tk\QuanLyThuVien_WF\QuanLyThuVien_WF\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.CopyComplete
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\QuanLyThuVien_WF.exe.config
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\QuanLyThuVien_WF.exe
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\QuanLyThuVien_WF.pdb
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\EntityFramework.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Images.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\EntityFramework.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.AssemblyReference.cache
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.SuggestedBindingRedirects.cache
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Form1.resources
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Properties.Resources.resources
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcCuonSach.resources
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcDocGia.resources
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcKeSach.resources
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcNhaCungCap.resources
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcNhaXuatBan.resources
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcPhieuMuon.resources
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcPhieuNhap.resources
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcTacGia.resources
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcThongKe.resources
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcThuThu.resources
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcTuaSach.resources
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.XtraReport1.resources
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.XtraReport2.resources
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.XtraReport3.resources
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.GenerateResource.cache
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.exe.licenses
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.CoreCompileInputs.cache
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.CopyComplete
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.exe
+D:\Teaching\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.pdb
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\QuanLyThuVien_WF.exe.config
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\QuanLyThuVien_WF.exe
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\QuanLyThuVien_WF.pdb
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\EntityFramework.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\EntityFramework.SqlServer.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\EntityFramework.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\EntityFramework.SqlServer.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.AssemblyReference.cache
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.SuggestedBindingRedirects.cache
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Form1.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Properties.Resources.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcCuonSach.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcDocGia.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcKeSach.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcNhaCungCap.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcNhaXuatBan.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcPhieuMuon.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcPhieuNhap.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcTacGia.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcThongKe.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcThuThu.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcTuaSach.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.XtraReport1.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.XtraReport2.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.XtraReport3.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.GenerateResource.cache
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.exe.licenses
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.CoreCompileInputs.cache
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.CopyComplete
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.exe
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.pdb
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\QuanLyThuVien_WF.exe.config
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\QuanLyThuVien_WF.exe
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\QuanLyThuVien_WF.pdb
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\EntityFramework.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\EntityFramework.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.AssemblyReference.cache
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.SuggestedBindingRedirects.cache
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Form1.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Properties.Resources.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcCuonSach.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcDocGia.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcKeSach.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcNhaCungCap.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcNhaXuatBan.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcPhieuMuon.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcPhieuNhap.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcTacGia.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcThongKe.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcThuThu.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcTuaSach.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.XtraReport1.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.XtraReport2.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.XtraReport3.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.GenerateResource.cache
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.exe.licenses
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.CoreCompileInputs.cache
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.csproj.CopyComplete
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.exe
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.pdb
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.FrmLogin.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v21.2.UI.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\FormDecoration.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v21.2.UI.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcNguoiDung.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcSinhVien.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcGiaoVien.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcKhoaLop.resources
+C:\Users\truon\Desktop\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.FrmGioiThieu.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.FrmGioiThieu.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.FrmLogin.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcKhoaLop.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcNguoiDung.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcGiaoVien.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\obj\Debug\QuanLyThuVien_WF.Views.UcSinhVien.resources
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Images.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\QuanLyThuVien\QuanLyThuVien_WF\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
